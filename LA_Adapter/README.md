@@ -3,7 +3,7 @@ A basic PCB to convert the RTB2004 LA pods into a 0.05" pitch pin header instead
 
 # Photos 
 ## Front 
-![Front](LA_front.jpeg)
+<img src="LA_front.jpeg" width="400">
 
 ## Back 
-![Back](LA_back.jpeg)
+<img src="LA_back.jpeg" width="400">
